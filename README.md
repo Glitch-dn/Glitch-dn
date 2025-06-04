@@ -16,6 +16,7 @@ I'm passionate about coding in all its forms and always eager to explore new pro
 ## 🌱 Currently Learning
 
 I'm currently diving deep into **Angular** and its ecosystem to broaden my skills in frontend development.  
+I'm also currently learning **Python**.  
 Always open to discovering new tools and best practices!
 
 ## 🛠️ Skills
