@@ -31,7 +31,6 @@ In the immediate future, I plan to study and deepen my knowledge of:
 
 - **MySQL**
 - **Java**
-- **Python**
 
 ---
 
