@@ -15,7 +15,8 @@ I'm passionate about coding in all its forms and always eager to explore new pro
 
 ## 🌱 Currently Learning
 
-I'm currently diving deep into **Python** and its ecosystem.  
+**Python**
+**MySQL**
 Always open to discovering new tools and best practices!
 
 ## 🛠️ Skills
@@ -29,7 +30,6 @@ Always open to discovering new tools and best practices!
 
 In the immediate future, I plan to study and deepen my knowledge of:
 
-- **MySQL**
 - **Java**
 
 ---
