@@ -15,8 +15,9 @@ I'm passionate about coding in all its forms and always eager to explore new pro
 
 ## 🌱 Currently Learning
 
-**Python**
-**MySQL**
+- **Python**
+- **MySQL**
+
 Always open to discovering new tools and best practices!
 
 ## 🛠️ Skills
